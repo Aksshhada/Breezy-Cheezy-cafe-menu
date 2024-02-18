@@ -28,7 +28,7 @@ const Restaurant = () => {
   return (
     <>
     <div className='cafe'>
-    <h1>BREEZY CHEEZY</h1>
+    <h1>MENU</h1>
     </div>
     <nav className='navbar'>
       <div className='btn-group'>
