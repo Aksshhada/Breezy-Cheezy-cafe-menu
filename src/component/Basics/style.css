@@ -193,7 +193,7 @@
   }
   .btn-group__item:hover,
   .btn-group__item:focus {
-    color: rebeccapurple;
+    color: rgb(13, 8, 59);
     box-shadow: inset 0px -20px 0px -15px rebeccapurple;
   }
   .btn-group__item:focus {
@@ -218,7 +218,7 @@
 
   .cafe {
   text-align: center;
-  color: rgb(8, 8, 8);
+  color: rgb(73, 69, 69);
   margin-top: 50px;
   font-size: 20px;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
